@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mansi-dass
-- 👀 I’m interested in exploring software development, android development, blockchain, graphics and ML.
-- 🌱 I’m currently learning Frontend development basics.
+- 👀 I’m interested in exploring software development, android development, blockchain, and ui/ux design.
+- 🌱 I’m currently learning Frontend development basics (HTML | CSS | JS).
 - 💞️ I’m looking to collaborate on amazing projects to gain knowledge and experience.
 - 📫 Reach me through twitter.
 
