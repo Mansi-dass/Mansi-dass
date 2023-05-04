@@ -5,7 +5,7 @@
       interests: ['Web Development', 'Android Development', 'UI/UX Design', 'WEB 3'],
       techStacks: {
           inProgress() => {
-              return ['HTML', 'CSS', 'SCSS', 'JavaScript']
+              return ['HTML', 'CSS', 'SCSS', 'JavaScript', 'YAML', 'Docker']
           },
           familier() => {
               return ['Java', 'C', 'C++', 'MySQL']
