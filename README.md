@@ -2,7 +2,7 @@
 
 ```JS
   const mansiDass= {
-      interests: ['Web Development', 'Android Development', 'UI/UX Design', 'WEB 3'],
+      interests: ['Web Development', 'Android Development', 'UI/UX Design', 'DevOps'],
       techStacks: {
           inProgress() => {
               return ['HTML', 'CSS', 'SCSS', 'JavaScript', 'YAML', 'Docker']
