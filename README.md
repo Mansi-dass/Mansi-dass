@@ -11,7 +11,7 @@
               return ['Java', 'C', 'C++', 'MySQL']
           },
           designing() => {
-              return ['Canva', 'Blender']
+              return ['Canva', 'Blender', 'Figma']
           }
       },
       openForCollaboration: true      
