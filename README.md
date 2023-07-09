@@ -5,20 +5,24 @@
       interests: ['Web Development', 'Android Development', 'UI/UX Design', 'DevOps'],
       techStacks: {
           inProgress() => {
-              return ['HTML', 'CSS', 'SCSS', 'JavaScript', 'YAML', 'Docker']
+              return ['React', 'Tailwind', 'YAML', 'Docker']
           },
-          familier() => {
+          levellingUp() => {
+              return ['HTML', 'CSS', 'SCSS', 'JavaScript']
+          },
+          familiar() => {
               return ['Java', 'C', 'C++', 'MySQL']
           },
           designing() => {
               return ['Canva', 'Blender', 'Figma']
           }
       },
+      BloggingTopicBasedOn: 'Web Development',
       openForCollaboration: true      
   };
 ```
 
-
+[Blogs](https://mansidass.hashnode.dev/) 
 [Twitter](https://twitter.com/_Mansiiii_) 
 <!-- [LiveCodes](https://codepen.io/your-work/?cursor=ZD0wJm89MSZwPTEmdj02NDgxNjE3MA==) -->
 
